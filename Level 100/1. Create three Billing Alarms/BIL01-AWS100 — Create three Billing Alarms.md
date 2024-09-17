@@ -38,4 +38,4 @@ When a billing alarm is triggered, we will receive a notification via Amazon Sim
 * [Creating a Billing Alarm to Monitor Your Estimated AWS Charges](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/monitor_estimated_charges_with_cloudwatch.html)
 
 ## Output
-![Alaram](https://github.com/user-attachments/assets/1d1d20d8-7750-4083-b38a-8f05ca5b9c03)
+![Alaram](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/07a4cf64af234aac79bdd7c05884b72b9e007921/Level%20100/1.%20Create%20three%20Billing%20Alarms/Alaram.png)
