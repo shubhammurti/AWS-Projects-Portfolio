@@ -12,12 +12,12 @@ This section features projects ideal for beginners, focusing on fundamental AWS 
 - **Project 1**: Create Three Billing Alarms
   - **Description**: This project involves configuring three AWS billing alarms to monitor and manage AWS costs effectively.
   - **Service Used**: CloudWatch
-  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/tree/c7c6df3bbec2923f507e4830dea0115d7005c984/LEVEL100/1.%20Create%20three%20Billing%20Alarms)
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/d5247d921c817478840d0bb64510fb10b49e3182/Level%20100/1.%20Create%20three%20Billing%20Alarms/BIL01-AWS100%20%E2%80%94%20Create%20three%20Billing%20Alarms.md)
 
 - **Project 2**: Create a Cost Budget
   - **Description**: Set up a cost budget in AWS to track and manage spending.
   - **Service Used**: AWS Budgets
-  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/c7c6df3bbec2923f507e4830dea0115d7005c984/LEVEL100/2.%20Create%20a%20Cost%20Budge/BIL02-AWS100%20%E2%80%94%20Create%20a%20Cost%20Budget.md)
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/d5247d921c817478840d0bb64510fb10b49e3182/Level%20100/2.%20Create%20a%20Cost%20Budge/BIL02-AWS100%20%E2%80%94%20Create%20a%20Cost%20Budget.md)
 
 ## Level 200 (Intermediate Projects)
 These projects are intended for individuals with a basic AWS understanding who wish to explore more advanced scenarios.
