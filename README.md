@@ -27,7 +27,7 @@ This section features projects ideal for beginners, focusing on fundamental AWS 
 - **Project 4**: Push a Docker Image to Amazon ECR Repository
   - **Description**: Build a Docker image and push it to an Amazon ECR repository. This includes creating the repository, tagging the image, and using AWS CLI to authenticate and upload the image.
   - **Service Used**: Amazon Elastic Container Registry (ECR), Docker, AWS CLI
-  - **Link**: [Project Directory]
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/b238f7995ecd1e6ad7ba1d19c2b1d15545155756/Level%20100/4.%20Push%20a%20Docker%20image%20to%20Amazon%20ECR%20repository/COM04-AWS100%20-%20Push%20a%20Docker%20image%20to%20Amazon%20ECR%20repository.md)
     
 ## Level 200 (Intermediate Projects)
 These projects are intended for individuals with a basic AWS understanding who wish to explore more advanced scenarios.
