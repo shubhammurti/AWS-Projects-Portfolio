@@ -24,6 +24,11 @@ This section features projects ideal for beginners, focusing on fundamental AWS 
   - **Service Used**: Amazon EC2
   - **Link**:[Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/4c2e3b75af369b89432b570d3c75bb1fc356f0f4/Level%20100/3.%20Launch%20a%20Hello%20World%20website%20on%20the%20internet/COM03-AWS100%20-%20Launch%20a%20Hello%20World%20website%20on%20the%20internet.md)
 
+- **Project 4**: Push a Docker Image to Amazon ECR Repository
+  - **Description**: Build a Docker image and push it to an Amazon ECR repository. This includes creating the repository, tagging the image, and using AWS CLI to authenticate and upload the image.
+  - **Service Used**: Amazon Elastic Container Registry (ECR), Docker, AWS CLI
+  - **Link**: [Project Directory]
+    
 ## Level 200 (Intermediate Projects)
 These projects are intended for individuals with a basic AWS understanding who wish to explore more advanced scenarios.
 
