@@ -82,7 +82,7 @@ Level 100 (Introductory)
 
 
 ## Output
-![Hello World](https://github.com/user-attachments/assets/d7967233-c48a-436e-88e5-5834673e4cc2)
+![Hello World](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/d08159c41853c633955a27607dc2caa547a861a9/Level%20100/3.%20Launch%20a%20Hello%20World%20website%20on%20the%20internet/hello%20World.png)
 
 
 
