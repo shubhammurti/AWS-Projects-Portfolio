@@ -65,7 +65,7 @@ Additionally, the account owner needs to enable IAM User and Role Access to Bill
 * <a href="https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-best-practices.html">Best practices</a>
 
 ## Output
-![image](https://github.com/user-attachments/assets/31ccedec-2e61-41d8-965e-0d8393fb9ace)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/5838ffe272b96c5e1d0cee5ddfd2fff846be8f53/Level%20100/2.%20Create%20a%20Cost%20Budge/Image.png)
 
 
 
