@@ -71,4 +71,4 @@ You can apply up to 100 tags to a single image in Amazon ECR. These tags help in
 - 30 minutes - only if you already have a Docker image
 
 ## Output
-![image](https://github.com/user-attachments/assets/06459683-9bcf-4073-a7e4-9cfeff5206a1)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/9535ce3f1e9dc07adc7d663c869498cb77162474/Level%20100/4.%20Push%20a%20Docker%20image%20to%20Amazon%20ECR%20repository/ECR.png)
