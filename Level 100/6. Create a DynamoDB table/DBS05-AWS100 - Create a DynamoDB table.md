@@ -93,4 +93,4 @@ Yes, DynamoDB can scale horizontally to handle millions of requests per second w
 - Do not use a sort key for this project.
 
 ## OupPut
-![image](https://github.com/user-attachments/assets/f967a9a8-4c6e-4269-becf-cdeec1119200)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/49e7f6f96ec0cd91e5554749c7e705ffec0ba39a/Level%20100/6.%20Create%20a%20DynamoDB%20table/DynamoDB%20Table.png)
