@@ -28,6 +28,16 @@ This section features projects ideal for beginners, focusing on fundamental AWS 
   - **Description**: Build a Docker image and push it to an Amazon ECR repository. This includes creating the repository, tagging the image, and using AWS CLI to authenticate and upload the image.
   - **Service Used**: Amazon Elastic Container Registry (ECR), Docker, AWS CLI
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/b238f7995ecd1e6ad7ba1d19c2b1d15545155756/Level%20100/4.%20Push%20a%20Docker%20image%20to%20Amazon%20ECR%20repository/COM04-AWS100%20-%20Push%20a%20Docker%20image%20to%20Amazon%20ECR%20repository.md)
+
+- **Project 5**:  Creating an Amazon RDS DB Instance (MS SQL Server)
+  - **Description**: Set up and configure a Microsoft SQL Server database instance using Amazon RDS. This includes choosing the appropriate instance type, configuring security settings, setting up backups and maintenance windows, and ensuring high availability.
+  - **Service Used**: Amazon Relational Database Service (RDS)
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/735a69c3fac2bf4f44b28006f1b03009b4eb3e0b/Level%20100/5.%20Creating%20an%20Amazon%20RDS%20DB%20Instance%20(MS%20SQL%20Server)/DBS03-AWS100%20-%20Creating%20an%20Amazon%20RDS%20DB%20Instance%20(MS%20SQL%20Server).md)
+
+- **Project 6**:  Create a DynamoDB Table
+  - **Description**: This project involved creating a DynamoDB table with provisioned capacity. Three random items were inserted into the table. A scan operation was performed to retrieve all items, and a query operation was used to fetch a single item based on specific criteria.
+  - **Service Used**: Amazon DynamoDB
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/735a69c3fac2bf4f44b28006f1b03009b4eb3e0b/Level%20100/6.%20Create%20a%20DynamoDB%20table/DBS05-AWS100%20-%20Create%20a%20DynamoDB%20table.md)
     
 ## Level 200 (Intermediate Projects)
 These projects are intended for individuals with a basic AWS understanding who wish to explore more advanced scenarios.
