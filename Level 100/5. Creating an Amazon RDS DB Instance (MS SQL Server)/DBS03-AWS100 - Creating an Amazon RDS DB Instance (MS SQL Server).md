@@ -103,5 +103,5 @@ To connect to your RDS database instance, follow these steps:
 - 750 hours of Amazon RDS Single-AZ `db.t2.micro` included in free tier
 
 ## Output
-![image](https://github.com/user-attachments/assets/6ffd0b03-16c6-42ac-b581-9a92ea415fc1)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/8ab9a8b06657034dd2ac5604f4a926707a535bf6/Level%20100/5.%20Creating%20an%20Amazon%20RDS%20DB%20Instance%20(MS%20SQL%20Server)/RDS.png)
 
