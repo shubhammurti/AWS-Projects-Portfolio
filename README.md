@@ -38,6 +38,17 @@ This section features projects ideal for beginners, focusing on fundamental AWS 
   - **Description**: This project involved creating a DynamoDB table with provisioned capacity. Three random items were inserted into the table. A scan operation was performed to retrieve all items, and a query operation was used to fetch a single item based on specific criteria.
   - **Service Used**: Amazon DynamoDB
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/735a69c3fac2bf4f44b28006f1b03009b4eb3e0b/Level%20100/6.%20Create%20a%20DynamoDB%20table/DBS05-AWS100%20-%20Create%20a%20DynamoDB%20table.md)
+ 
+- **Project 7**:  Install & Configure AWS CLI then Create an S3 Bucket
+  - **Description**: This project involves setting up AWS CLI on your local machine, configuring it with your AWS credentials, and using it to create, list, and delete an S3 bucket. This process ensures that you can interact with AWS services programmatically and manage your S3 resources effectively.
+  - **Service Used**: AWS CLI, Amazon S3
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/a5c03e6145e32a4cd6b909870739826fd43c104c/Level%20100/7.%20Install%20%26%20Configure%20AWS%20CLI%20then%20create%20an%20S3%20Bucket/DEV03-AWS100%20%E2%80%94%20%20Install%20%26%20Configure%20AWS%20CLI%20then%20create%20an%20S3%20Bucket.md)
+
+- **Project 8**:  Create an S3 Bucket and store an object in it
+  - **Description**: This project involves creating an Amazon S3 bucket using the AWS Management Console and uploading a file into the bucket. Amazon S3 (Simple Storage Service) is used to store and retrieve any amount of data at any time, and this project demonstrates the basic steps of setting up and using S3 for storage.
+  - **Service Used**: Amazon S3
+  - **Link**: [Project Directory]()
+
     
 ## Level 200 (Intermediate Projects)
 These projects are intended for individuals with a basic AWS understanding who wish to explore more advanced scenarios.
