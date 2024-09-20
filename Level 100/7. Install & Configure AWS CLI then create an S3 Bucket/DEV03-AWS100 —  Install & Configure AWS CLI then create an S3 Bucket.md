@@ -77,4 +77,4 @@ The `aws s3` and `aws s3api` commands provide different levels of interaction wi
   - IAM users with programmatic access are given an *access key id* and *secret access key*. After creating a user a *Download.csv* file is generated that contains these values. Download and save the file to access them for setting up AWS locally.
 
 ## Output
-![image](https://github.com/user-attachments/assets/da5c2905-53e5-4c12-b369-b846094f4190)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/db0796253f2b26cedfcc6428ae90932d543fbf34/Level%20100/7.%20Install%20%26%20Configure%20AWS%20CLI%20then%20create%20an%20S3%20Bucket/S3.png)
