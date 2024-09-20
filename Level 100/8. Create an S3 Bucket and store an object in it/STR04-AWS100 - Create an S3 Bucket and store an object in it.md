@@ -100,4 +100,4 @@ Amazon S3 offers several **storage classes** designed for different use cases, a
 - Do not turn on _versioning_ on this bucket, it will be difficult to delete.
 
 ## Output 
-![image](https://github.com/user-attachments/assets/6a5e60df-0c2e-4762-9062-1827e05694a4)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/1d12991c229e94b8ffe1eec1f26030345503573a/Level%20100/8.%20Create%20an%20S3%20Bucket%20and%20store%20an%20object%20in%20it/Image.png)
