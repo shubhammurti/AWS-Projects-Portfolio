@@ -79,4 +79,4 @@ While both SNS and SQS are AWS messaging services, they serve different purposes
 - 30 minutes
 
 ## Output 
-![image](https://github.com/user-attachments/assets/39de2950-f685-420b-8925-b8393da70bf1)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/7146506b5c04867e5d1c23583f457f6bb9eb3ce8/Level%20100/9.%20Introduction%20to%20SNS%20(Simple%20Notification%20Service)/SNS.png)
