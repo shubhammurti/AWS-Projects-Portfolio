@@ -103,4 +103,4 @@ To check the logs for an AWS Lambda function:
 - Use the cloud9 IDE to code the hello world Lambda initially, and then explore other deployment ideas like zip file uploads and SAM deployments
 
 ## Output
-![image](https://github.com/user-attachments/assets/7df6dcf8-f060-4985-b792-eb427d9f375c)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/d13c89d1ac8e21fb366d14bd3bf9883e48fbf8eb/Level%20100/10.%20Create%20a%20Lambda%20to%20add%202%20numbers/lambdafunction.png)
