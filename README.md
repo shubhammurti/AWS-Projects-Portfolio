@@ -49,6 +49,15 @@ This section features projects ideal for beginners, focusing on fundamental AWS 
   - **Service Used**: Amazon S3
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/ca6f2af29d6ccf0edaa58e7f0670410bcacf68c5/Level%20100/8.%20Create%20an%20S3%20Bucket%20and%20store%20an%20object%20in%20it/STR04-AWS100%20-%20Create%20an%20S3%20Bucket%20and%20store%20an%20object%20in%20it.md)
 
+- **Project 9**:  Introduction to SNS (Simple Notification Service)
+  - **Description**: This project involves creating an Amazon SNS (Simple Notification Service) topic, subscribing an email address to the topic, and confirming the subscription through the email. After confirming, a test message is sent through the SNS topic to verify that the email address receives the notification, demonstrating the basic functionality and setup of SNS for sending notifications.
+  - **Service Used**: Amazon SNS
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/5f956d195fc751379494cc631be96156a2bece9e/Level%20100/9.%20Introduction%20to%20SNS%20(Simple%20Notification%20Service)/GLU02-AWS100%20-%20Introduction%20to%20SNS%20(Simple%20Notification%20Service).md)
+
+- **Project 10**:  Create a Lambda Function to Add Two Numbers
+  - **Description**: Developed an AWS Lambda function using Python that takes two numbers as input, adds them together, and returns the result. The function also print the result out in the logs.
+  - **Service Used**: AWS Lambda
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/5f956d195fc751379494cc631be96156a2bece9e/Level%20100/10.%20Create%20a%20Lambda%20to%20add%202%20numbers/LES01-AWS100%20-%20Create%20a%20Lambda%20to%20add%202%20numbers.md)
     
 ## Level 200 (Intermediate Projects)
 These projects are intended for individuals with a basic AWS understanding who wish to explore more advanced scenarios.
