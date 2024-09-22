@@ -67,7 +67,7 @@ This section features projects ideal for beginners, focusing on fundamental AWS 
 - **Project 12**:  Create an IAM User
   - **Description**: Configured IAM by creating a new user with console access and adding it to a newly created group named "adminsGroup" with `AdministratorAccess` permissions. Enabled multi-factor authentication (MFA) for the root user and applied a password policy to enforce security best practices.
   - **Service Used**: AWS Identity and Access Management (IAM)
-  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/21bdc36f17eab8959cd87945c2cd06cee9806db7/Level%20100/11.%20Host%20a%20simple%20static%20webpage%20with%20S3%20and%20CloudFront/NET04-AWS100%20%E2%80%94%20Host%20a%20simple%20static%20webpage%20with%20S3%20and%20CloudFront.md)
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/21bdc36f17eab8959cd87945c2cd06cee9806db7/Level%20100/12.%20Create%20an%20IAM%20user/SEC04-AWS100%20-%20Create%20an%20IAM%20user.md)
     
 ## Level 200 (Intermediate Projects)
 These projects are intended for individuals with a basic AWS understanding who wish to explore more advanced scenarios.
