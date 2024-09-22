@@ -125,4 +125,4 @@ Good security practices for password policies include:
 * By default, IAM users are not allowed access to the Billing console. It has to be enabled seperately by using the root user under "My Account".
 
 ## Output 
-![image](https://github.com/user-attachments/assets/a06c731f-291d-49f1-ac81-9af8f29eba82)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/fb3fa9379490eecf759fed2fb30d5a7c39ff1498/Level%20100/12.%20Create%20an%20IAM%20user/IAM.png)
