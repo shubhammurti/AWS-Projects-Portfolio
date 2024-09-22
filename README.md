@@ -58,6 +58,16 @@ This section features projects ideal for beginners, focusing on fundamental AWS 
   - **Description**: Developed an AWS Lambda function using Python that takes two numbers as input, adds them together, and returns the result. The function also print the result out in the logs.
   - **Service Used**: AWS Lambda
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/5f956d195fc751379494cc631be96156a2bece9e/Level%20100/10.%20Create%20a%20Lambda%20to%20add%202%20numbers/LES01-AWS100%20-%20Create%20a%20Lambda%20to%20add%202%20numbers.md)
+
+- **Project 11**:  Host a Simple Static Webpage with S3 and CloudFront
+  - **Description**: Set up an S3 bucket to host a static webpage and uploaded the webpage content. Configured an Amazon CloudFront distribution to use the S3 bucket as its origin, ensuring that the webpage content is accessible only through the CloudFront endpoint to enhance security and performance.
+  - **Service Used**: Amazon S3, Amazon CloudFront
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/21bdc36f17eab8959cd87945c2cd06cee9806db7/Level%20100/11.%20Host%20a%20simple%20static%20webpage%20with%20S3%20and%20CloudFront/NET04-AWS100%20%E2%80%94%20Host%20a%20simple%20static%20webpage%20with%20S3%20and%20CloudFront.md)
+
+- **Project 12**:  Create an IAM User
+  - **Description**: Configured IAM by creating a new user with console access and adding it to a newly created group named "adminsGroup" with `AdministratorAccess` permissions. Enabled multi-factor authentication (MFA) for the root user and applied a password policy to enforce security best practices.
+  - **Service Used**: AWS Identity and Access Management (IAM)
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/21bdc36f17eab8959cd87945c2cd06cee9806db7/Level%20100/11.%20Host%20a%20simple%20static%20webpage%20with%20S3%20and%20CloudFront/NET04-AWS100%20%E2%80%94%20Host%20a%20simple%20static%20webpage%20with%20S3%20and%20CloudFront.md)
     
 ## Level 200 (Intermediate Projects)
 These projects are intended for individuals with a basic AWS understanding who wish to explore more advanced scenarios.
