@@ -70,4 +70,4 @@ To secure access on an S3 bucket that is fronted by a CDN, you can use the follo
 * [Hosting a static website on S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html)
 
 ## Output
-![image](https://github.com/user-attachments/assets/e8d44bcd-3a54-4030-ba7b-86ae90339e06)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/5a53cb0b2095ead52a0dd698ab39aceef820d38a/Level%20100/11.%20Host%20a%20simple%20static%20webpage%20with%20S3%20and%20CloudFront/cloudfont.png)
