@@ -58,4 +58,4 @@ An **AWS Config rule** is a predefined or custom rule that evaluates the configu
 - [List of AWS Config Managed Rules](https://docs.aws.amazon.com/config/latest/developerguide/managed-rules-by-aws-config.html)
 
 ## Output 
-![image](https://github.com/user-attachments/assets/e17f34a2-ded5-49ed-b127-3e072a1465f3)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/584208a8e10883f5fcb59de46c617eb2907846d3/Level%20100/13.%20Use%20a%20managed%20Config%20Rule/config.png)
