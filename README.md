@@ -70,9 +70,9 @@ This section features projects ideal for beginners, focusing on fundamental AWS 
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/21bdc36f17eab8959cd87945c2cd06cee9806db7/Level%20100/12.%20Create%20an%20IAM%20user/SEC04-AWS100%20-%20Create%20an%20IAM%20user.md)
 
  - **Project 13**:  Use a Managed Config Rule
-  - **Description**: Implemented and monitored an AWS Config rule to ensure compliance with encryption policies for EBS volumes. Enabled AWS Config in the US-EAST-1 region, selected the managed Config rule `encrypted-volumes`, and launched an EC2 instance with an unencrypted EBS volume to verify that the Config rule detects non-compliance.
-  - **Service Used**: AWS Config
-  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/5aaf44e42c8b8199e021e8c779a1e17d058cc72b/Level%20100/13.%20Use%20a%20managed%20Config%20Rule/SEC02-AWS100%20%E2%80%94%20Use%20a%20managed%20Config%20Rule.md)
+    - **Description**: Implemented and monitored an AWS Config rule to ensure compliance with encryption policies for EBS volumes. Enabled AWS Config in the US-EAST-1 region, selected the managed Config rule `encrypted-volumes`, and launched an EC2 instance with an unencrypted EBS volume to verify that the Config rule detects non-compliance.
+    - **Service Used**: AWS Config
+    - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/5aaf44e42c8b8199e021e8c779a1e17d058cc72b/Level%20100/13.%20Use%20a%20managed%20Config%20Rule/SEC02-AWS100%20%E2%80%94%20Use%20a%20managed%20Config%20Rule.md)
 
 - **Project 14**:  Deploy a CloudFormation Template from the AWS Console
   - **Description**: Downloaded a pre-made CloudFormation template and used it to create a CloudFormation stack. Monitored the deployment process through the events tab, confirmed the creation of a DynamoDB table and an S3 bucket, and then deleted the stack to ensure both resources were removed as part of the cleanup.
