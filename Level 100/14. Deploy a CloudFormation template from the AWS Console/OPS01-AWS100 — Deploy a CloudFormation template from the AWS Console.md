@@ -70,4 +70,4 @@ When a **CloudFormation stack** is deleted, by default, all the resources that w
 - This project is included in the free tier
 
 ## Output
-![image](https://github.com/user-attachments/assets/8b843db8-dad2-4199-a7bc-87f2fbaf43b5)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/390598f241fdf474ffe489795357e6a79c251c53/Level%20100/14.%20Deploy%20a%20CloudFormation%20template%20from%20the%20AWS%20Console/cloudformation.png)
