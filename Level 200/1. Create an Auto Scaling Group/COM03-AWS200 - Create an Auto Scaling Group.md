@@ -80,4 +80,4 @@ The termination policy for an ASG during a scale-in event follows these rules:
 - Don't panic if the instances always come back after you delete them, there's a reason for that.
 
 ## Output
-![Auto Scaling](https://github.com/user-attachments/assets/588631b8-0178-40b6-aa05-6f06f2c42a71)
+![Auto Scaling](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/ffaf3128c4a3adbc3da524106e963c6367e81a95/Level%20200/1.%20Create%20an%20Auto%20Scaling%20Group/Auto%20Scaling.png)
