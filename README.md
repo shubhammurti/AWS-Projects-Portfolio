@@ -83,6 +83,7 @@ This section features projects ideal for beginners, focusing on fundamental AWS 
 These projects are intended for individuals with a basic AWS understanding who wish to explore more advanced scenarios.
 
 - **Project 1**: Create an Auto Scaling Group
+
   - **Description**: Configured an Auto Scaling Group (ASG) with a launch configuration that automatically scales between 2 and 5 EC2 instances. Monitored the ASG’s behavior by manually terminating an instance and observing how the ASG maintains the desired capacity. Also, adjusted the desired number of instances and explored scaling policies based on CloudWatch metrics.
   - **Services Used**: AWS EC2 Auto Scaling, AWS CloudWatch
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/1a30af47739b7959e11e2d84d7010450930732f4/Level%20200/1.%20Create%20an%20Auto%20Scaling%20Group/COM03-AWS200%20-%20Create%20an%20Auto%20Scaling%20Group.md)
