@@ -81,5 +81,5 @@ Cluster names in Amazon ECS have the following limitations:
 - 45 minutes - only if you already have a Docker image
 
 ## Output
-![{EE0846AB-2E76-4374-BE58-6CE15E4501D2}](https://github.com/user-attachments/assets/0fb34872-8def-4485-a704-a863cdff2263)
+![{EE0846AB-2E76-4374-BE58-6CE15E4501D2}](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/43b4afbe2b62f412dce12f16861b97f730351392/Level%20200/2.%20Deploy%20a%20Docker%20container%20image%20on%20AWS%20Fargate/Image.png)
 
