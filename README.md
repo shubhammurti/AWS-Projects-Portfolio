@@ -88,6 +88,12 @@ These projects are intended for individuals with a basic AWS understanding who w
   - **Services Used**: AWS EC2 Auto Scaling, AWS CloudWatch
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/1a30af47739b7959e11e2d84d7010450930732f4/Level%20200/1.%20Create%20an%20Auto%20Scaling%20Group/COM03-AWS200%20-%20Create%20an%20Auto%20Scaling%20Group.md)
 
+- **Project 2**: Deploy a Docker Container Image on AWS Fargate
+  
+  - **Description**: Deployed a Docker container image on AWS Fargate by configuring a container with a Docker image, setting up a task definition, defining a service, and deploying it on an ECS cluster. Explored memory limits, task roles, load balancers, and security group configurations.
+  - **Services Used**: AWS Fargate, Amazon ECS, Docker
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/d206a94c46ead8203063d7229e04e644e27d1431/Level%20200/2.%20Deploy%20a%20Docker%20container%20image%20on%20AWS%20Fargate/COM04-AWS200%20-%20Deploy%20a%20Docker%20container%20image%20on%20AWS%20Fargate.md)
+
 ## Level 300 (Advanced Projects)
 Projects at this level are designed for individuals with extensive AWS experience, featuring intricate architectures and integrations.
 
