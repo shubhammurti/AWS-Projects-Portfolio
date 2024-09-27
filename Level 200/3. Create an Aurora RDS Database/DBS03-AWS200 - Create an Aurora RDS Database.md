@@ -96,5 +96,5 @@ Yes, Aurora offers database encryption. You can enable encryption at rest using 
 - To delete the database, make sure that you have disabled "deletion protection"
 
 ## Outputs
-![image](https://github.com/user-attachments/assets/7ffefe8c-92f7-4f9b-a01d-3bfdc3cc2f3a)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/ed981509f1ae03081b0cedfdd5386e05b7a64ea7/Level%20200/3.%20Create%20an%20Aurora%20RDS%20Database/image.png)
 
