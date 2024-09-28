@@ -99,6 +99,12 @@ These projects are intended for individuals with a basic AWS understanding who w
   - **Description**: Created an Aurora RDS database with MySQL compatibility. Configured a security group to allow public access for testing purposes, set up the database using `db.r5.large` instance type, and connected to the instance using MySQL Workbench. Verified functionality by creating a test table, then deleted the database and ensured proper resource cleanup.
   - **Services Used**: AWS RDS, Amazon Aurora (MySQL), MySQL Workbench, Amazon VPC, Amazon EC2 (Security Groups)
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/863c6ab30c5192ee70d7c3573d9ccd9427264bdd/Level%20200/3.%20Create%20an%20Aurora%20RDS%20Database/DBS03-AWS200%20-%20Create%20an%20Aurora%20RDS%20Database.md)
+ 
+- **Project 4**: Setup a Simple State Machine with at least 2 Steps
+  - **Description**: Created a simple AWS Step Functions state machine consisting of two AWS Lambda functions. The first function adds two numbers provided as input, and the second function returns the square of the sum. The state machine coordinates the flow between these two Lambdas. After successfully executing the workflow, I verified the output and cleaned up the resources.
+  - **Services Used**: AWS Lambda, AWS Step Functions, Amazon CloudWatch (for monitoring)
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/ddfc5afb6ee2902254d37025cdd7bf285e11e5f1/Level%20200/4.%20Setup%20a%20simple%20state%20machine%20with%20at%20least%202%20steps/GLU07-AWS200%20-%20Setup%20a%20simple%20state%20machine%20with%20at%20least%202%20steps.md)
+
 
 ## Level 300 (Advanced Projects)
 Projects at this level are designed for individuals with extensive AWS experience, featuring intricate architectures and integrations.
