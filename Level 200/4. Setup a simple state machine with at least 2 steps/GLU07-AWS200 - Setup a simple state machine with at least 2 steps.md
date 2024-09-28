@@ -74,4 +74,4 @@ You can visualize the state machine in AWS Step Functions using the following me
 - Just create a Lambda function with default settings and choose the language you want to code in, if you do not want the exact same implementation as this excercise. Make your own flow, take a look at some [use cases](https://aws.amazon.com/step-functions/use-cases/)
 
 ## Output
-![image](https://github.com/user-attachments/assets/cccc7a40-7061-4ee2-9cb2-5b8087c027e9)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/6d5a38e56e0d592abe63e603569810fb9f7b2ef1/Level%20200/4.%20Setup%20a%20simple%20state%20machine%20with%20at%20least%202%20steps/image.png)
