@@ -94,7 +94,7 @@ These projects are intended for individuals with a basic AWS understanding who w
   - **Services Used**: AWS Fargate, Amazon ECS, Docker
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/d206a94c46ead8203063d7229e04e644e27d1431/Level%20200/2.%20Deploy%20a%20Docker%20container%20image%20on%20AWS%20Fargate/COM04-AWS200%20-%20Deploy%20a%20Docker%20container%20image%20on%20AWS%20Fargate.md)
 
-- **Project 17**: Create an Aurora RDS Database
+- **Project 3**: Create an Aurora RDS Database
   
   - **Description**: Created an Aurora RDS database with MySQL compatibility. Configured a security group to allow public access for testing purposes, set up the database using `db.r5.large` instance type, and connected to the instance using MySQL Workbench. Verified functionality by creating a test table, then deleted the database and ensured proper resource cleanup.
   - **Services Used**: AWS RDS, Amazon Aurora (MySQL), MySQL Workbench, Amazon VPC, Amazon EC2 (Security Groups)
