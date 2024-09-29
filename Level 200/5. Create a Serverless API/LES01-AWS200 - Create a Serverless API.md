@@ -107,4 +107,4 @@ To add API Gateway as a trigger for AWS Lambda:
 - The AWS Lambda free usage tier includes **1M free requests per month and 400,000 GB-seconds of compute time per month**, so feel free to explore unhinged! 
 
 ## Output
-![image](https://github.com/user-attachments/assets/eccf55ed-f310-4544-9c4a-b95570e8968c)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e8f0ec62608a3287061884e84f1f69aeb452b76a/Level%20200/5.%20Create%20a%20Serverless%20API/Image.png)
