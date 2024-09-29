@@ -104,6 +104,11 @@ These projects are intended for individuals with a basic AWS understanding who w
   - **Description**: Created a simple AWS Step Functions state machine consisting of two AWS Lambda functions. The first function adds two numbers provided as input, and the second function returns the square of the sum. The state machine coordinates the flow between these two Lambdas. After successfully executing the workflow, I verified the output and cleaned up the resources.
   - **Services Used**: AWS Lambda, AWS Step Functions, Amazon CloudWatch (for monitoring)
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/ddfc5afb6ee2902254d37025cdd7bf285e11e5f1/Level%20200/4.%20Setup%20a%20simple%20state%20machine%20with%20at%20least%202%20steps/GLU07-AWS200%20-%20Setup%20a%20simple%20state%20machine%20with%20at%20least%202%20steps.md)
+ 
+- **Project 5**: Create a Serverless API  
+  - **Description**: Developed a serverless API using AWS Lambda and API Gateway. The Lambda function responds with the message 'Hello Serverless World!'. An API Gateway was created to expose the Lambda function as an HTTP endpoint, and the API was secured using an API Key. The API endpoint was successfully tested using POSTMAN to verify both functionality and security.  
+  - **Services Used**: AWS Lambda, Amazon API Gateway, IAM (for role and permissions), POSTMAN (for API testing)  
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4491e8e28469f486c9eba75233a0ee52d7cd864/Level%20200/5.%20Create%20a%20Serverless%20API/LES01-AWS200%20-%20Create%20a%20Serverless%20API.md)
 
 
 ## Level 300 (Advanced Projects)
