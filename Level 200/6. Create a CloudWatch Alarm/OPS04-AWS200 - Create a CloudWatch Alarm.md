@@ -80,4 +80,4 @@ For example, if you set 3 evaluation periods of 5 minutes each (i.e., 3 out of 4
   5-10 mins after visiting the website intially
 
 ## Output
-![{173A53AD-AE5D-4C09-A295-59238DA4DD09}](https://github.com/user-attachments/assets/7d300224-1c95-42db-8e77-f4f21b3d6854)
+![{173A53AD-AE5D-4C09-A295-59238DA4DD09}](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/03ee878799e734e51d9f9d2a6fa93efb9ae1f53e/Level%20200/6.%20Create%20a%20CloudWatch%20Alarm/Image.png)
