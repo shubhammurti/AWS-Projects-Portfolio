@@ -109,6 +109,11 @@ These projects are intended for individuals with a basic AWS understanding who w
   - **Description**: Developed a serverless API using AWS Lambda and API Gateway. The Lambda function responds with the message 'Hello Serverless World!'. An API Gateway was created to expose the Lambda function as an HTTP endpoint, and the API was secured using an API Key. The API endpoint was successfully tested using POSTMAN to verify both functionality and security.  
   - **Services Used**: AWS Lambda, Amazon API Gateway, IAM (for role and permissions), POSTMAN (for API testing)  
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4491e8e28469f486c9eba75233a0ee52d7cd864/Level%20200/5.%20Create%20a%20Serverless%20API/LES01-AWS200%20-%20Create%20a%20Serverless%20API.md)
+ 
+- **Project 20**: Create a CloudWatch Alarm  
+    - **Description**: Configured a CloudWatch Alarm to monitor EC2 NetworkIn traffic. An EC2 instance was launched with a simple Apache web server installed via UserData. The CloudWatch Alarm was set up to monitor the **NetworkIn** metric, with a 5-minute evaluation period and a low static threshold of 5000 bytes. The alarm was triggered by generating traffic to the instance, ensuring the monitoring setup was functional and reliable.
+    - **Services Used**: Amazon EC2, Amazon CloudWatch, IAM (for permissions)
+    - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/839f0b692240bc171271f25d1c2527242fc4e1f0/Level%20200/6.%20Create%20a%20CloudWatch%20Alarm/OPS04-AWS200%20-%20Create%20a%20CloudWatch%20Alarm.md)
 
 
 ## Level 300 (Advanced Projects)
