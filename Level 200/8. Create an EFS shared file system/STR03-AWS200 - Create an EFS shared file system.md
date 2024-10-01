@@ -101,5 +101,5 @@ EFS can be mounted on any Amazon EC2 instance running a Linux operating system t
 - Storing small amounts of data on an EFS volume can lead to performance issues.
 
 ## Output
-![image](https://github.com/user-attachments/assets/92fc4845-0734-4ae3-8939-06e503e04c6d)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/57b93692694f1109d3fb2fad3b1d60818e86d6cb/Level%20200/8.%20Create%20an%20EFS%20shared%20file%20system/image.png)
  
