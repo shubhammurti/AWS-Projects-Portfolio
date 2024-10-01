@@ -120,6 +120,11 @@ These projects are intended for individuals with a basic AWS understanding who w
   - **Services Used**: AWS KMS, Amazon S3, IAM (for permissions and access control)
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/eb55b72bbff267e6ad38e69d9764e0a41b8d03dc/Level%20200/7.%20Create%20a%20new%20CMK%20in%20KMS%20and%20encrypt%20an%20object/SEC01-AWS200%20%E2%80%94%20Create%20a%20new%20CMK%20in%20KMS%20and%20encrypt%20an%20object.md)
 
+- **Project 8**:  Create an EFS Shared File System
+
+  - **Description**: Set up an Amazon Elastic File System (EFS) to provide a shared file system across multiple Amazon EC2 instances in separate Availability Zones within the same region.
+  - **Service Used**: Amazon Elastic File System (EFS), Amazon Elastic Compute Cloud (EC2)
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/046b2336a7d7ca703ee280d24c28886a57de22c9/Level%20200/8.%20Create%20an%20EFS%20shared%20file%20system/STR03-AWS200%20-%20Create%20an%20EFS%20shared%20file%20system.md)
 
 ## Level 300 (Advanced Projects)
 Projects at this level are designed for individuals with extensive AWS experience, featuring intricate architectures and integrations.
