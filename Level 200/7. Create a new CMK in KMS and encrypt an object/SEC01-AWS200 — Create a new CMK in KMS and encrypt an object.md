@@ -68,4 +68,4 @@ For the latest and most detailed pricing information, please refer to the [AWS K
 - [AWS Key Management Service concepts](https://docs.aws.amazon.com/kms/latest/developerguide/concepts.html)
 
 ## Output
-![{353F0602-3F6F-433C-AED0-564B1F24C184}](https://github.com/user-attachments/assets/b0da9db0-a6ac-490b-b8c7-ecd8cd3c8348)
+![{353F0602-3F6F-433C-AED0-564B1F24C184}](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/d041eddb576ed88d906f59eacc6359442a45beb1/Level%20200/7.%20Create%20a%20new%20CMK%20in%20KMS%20and%20encrypt%20an%20object/Image.png)
