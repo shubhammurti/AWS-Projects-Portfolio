@@ -110,12 +110,12 @@ These projects are intended for individuals with a basic AWS understanding who w
   - **Services Used**: AWS Lambda, Amazon API Gateway, IAM (for role and permissions), POSTMAN (for API testing)  
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4491e8e28469f486c9eba75233a0ee52d7cd864/Level%20200/5.%20Create%20a%20Serverless%20API/LES01-AWS200%20-%20Create%20a%20Serverless%20API.md)
  
-- **Project 20**: Create a CloudWatch Alarm  
+- **Project 6**: Create a CloudWatch Alarm  
     - **Description**: Configured a CloudWatch Alarm to monitor EC2 NetworkIn traffic. An EC2 instance was launched with a simple Apache web server installed via UserData. The CloudWatch Alarm was set up to monitor the **NetworkIn** metric, with a 5-minute evaluation period and a low static threshold of 5000 bytes. The alarm was triggered by generating traffic to the instance, ensuring the monitoring setup was functional and reliable.
     - **Services Used**: Amazon EC2, Amazon CloudWatch, IAM (for permissions)
     - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/839f0b692240bc171271f25d1c2527242fc4e1f0/Level%20200/6.%20Create%20a%20CloudWatch%20Alarm/OPS04-AWS200%20-%20Create%20a%20CloudWatch%20Alarm.md)
  
-- **Project 21**: Create a new CMK in KMS and encrypt an object
+- **Project 7**: Create a new CMK in KMS and encrypt an object
   - **Description**: Created a **Customer Master Key (CMK)** using AWS Key Management Service (KMS) to ensure secure encryption of an object uploaded to an S3 bucket. The object was encrypted using the custom CMK, enhancing data security and encryption at rest. Key management and access control were configured for this setup, ensuring only authorized users could interact with the encrypted object.
   - **Services Used**: AWS KMS, Amazon S3, IAM (for permissions and access control)
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/eb55b72bbff267e6ad38e69d9764e0a41b8d03dc/Level%20200/7.%20Create%20a%20new%20CMK%20in%20KMS%20and%20encrypt%20an%20object/SEC01-AWS200%20%E2%80%94%20Create%20a%20new%20CMK%20in%20KMS%20and%20encrypt%20an%20object.md)
