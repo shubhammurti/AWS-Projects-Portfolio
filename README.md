@@ -129,5 +129,11 @@ These projects are intended for individuals with a basic AWS understanding who w
 ## Level 300 (Advanced Projects)
 Projects at this level are designed for individuals with extensive AWS experience, featuring intricate architectures and integrations.
 
+- **Project 1**:  SQLServer Native Backup and Restore on RDS
+
+  - **Description**: Implemented SQL Server backup and restore on AWS RDS involving Amazon S3 bucket.
+  - **Service Used**: Amazon RDS, Amazon S3
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/748873540a24e3bee656f5599eb36c3f9cecf9b8/LEVEL%20300/1.%20SQLServer%20Native%20Backup%20and%20Restore%20on%20RDS/DBS03-AWS201%20-%20SQLServer%20Native%20Backup%20and%20Restore%20on%20RDS.md)
+
 ## Level 400 (Expert Projects)
 These projects are the most challenging, demonstrating advanced AWS solutions and best practices.
