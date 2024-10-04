@@ -144,4 +144,4 @@ In Amazon RDS, you can take manual backups in the form of **DB snapshots**. Thes
 - Having database knowledge is an added advantage
 
 ## Ouput
-![Image](https://github.com/shubhammurti/AWS-Projects-Portfolio-pvt/blob/8f2050f2af386d1067d61d32227bc405e9c80be9/LEVEL%20200/9.%20SQLServer%20Native%20Backup%20and%20Restore%20on%20RDS/Image.png)
+![Image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/4a0e56a524dc6a819afbd0d57e24b98a3cede920/LEVEL%20300/1.%20SQLServer%20Native%20Backup%20and%20Restore%20on%20RDS/Image.png)
