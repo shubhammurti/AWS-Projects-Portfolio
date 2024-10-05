@@ -39,7 +39,7 @@
 - Verify resources are deleted
 
 ## Architectural Diagram
-![image](https://github.com/shubhammurti/AWS-Projects-Portfolio-pvt/blob/5ad863bea04ca653e5bd82ca47701661ac7ff050/LEVEL%20300/2.%20Deploy%20a%20VPC%20with%20Terraform/Image.png)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/d08dd1854f5c27dbd5a10e67eb6ae4a82d070ad0/LEVEL%20300/2.%20Deploy%20a%20VPC%20with%20Terraform/Image.png)
 
 ### You need to answer the following:
 
@@ -95,4 +95,4 @@ Some resources may need to wait for another resource to be created.
 - It may be useful to create a key_pair in the management UI before creating the EC2 instances
 
 ## Output
-![image](https://github.com/shubhammurti/AWS-Projects-Portfolio-pvt/blob/5ad863bea04ca653e5bd82ca47701661ac7ff050/LEVEL%20300/2.%20Deploy%20a%20VPC%20with%20Terraform/Gif.gif)
+![image](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/d08dd1854f5c27dbd5a10e67eb6ae4a82d070ad0/LEVEL%20300/2.%20Deploy%20a%20VPC%20with%20Terraform/Gif.gif)
