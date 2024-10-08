@@ -143,3 +143,10 @@ Projects at this level are designed for individuals with extensive AWS experienc
 
 ## Level 400 (Expert Projects)
 These projects are the most challenging, demonstrating advanced AWS solutions and best practices.
+
+- **Project 1**:  Create a Cluster of Virtual Machines Using Docker Swarm
+
+  - **Description**: Set up a Docker Swarm cluster across five EC2 instances, with one manager node and four worker nodes, and tested it by deploying an Nginx service.
+  - **Service Used**: Amazon EC2, Docker (Swarm), Nginx
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/aef8ea6a4f36e8055e0e3e4caeeaed6a3597b966/LEVEL%20400/1.%20Create%20a%20cluster%20of%20virtual%20machines%20using%20docker%20swarm/COM04-AWS400%20-%20Create%20a%20cluster%20of%20virtual%20machines%20using%20docker%20swarm.md)
+
