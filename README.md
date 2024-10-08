@@ -135,5 +135,11 @@ Projects at this level are designed for individuals with extensive AWS experienc
   - **Service Used**: Amazon RDS, Amazon S3
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/748873540a24e3bee656f5599eb36c3f9cecf9b8/LEVEL%20300/1.%20SQLServer%20Native%20Backup%20and%20Restore%20on%20RDS/DBS03-AWS201%20-%20SQLServer%20Native%20Backup%20and%20Restore%20on%20RDS.md)
 
+- **Project 2**:  Deploy a VPC with Terraform
+
+  - **Description**: Created Virtual Private Cloud (VPC), route tables (both public and private), route table associations, an internet gateway, an Elastic IP, and a NAT gateway and EC2 instance in both a public and a private subnet using Terraform (IaC)
+  - **Service Used**: Amazon VPC, Amazon EC2, Terraform
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/4aa9c5fb503e31a5759d3a0efe6a3ef67759464d/LEVEL%20300/2.%20Deploy%20a%20VPC%20with%20Terraform/OPS01-AWS300%20-%20Deploy%20a%20VPC%20with%20Terraform.md)
+
 ## Level 400 (Expert Projects)
 These projects are the most challenging, demonstrating advanced AWS solutions and best practices.
