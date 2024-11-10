@@ -150,3 +150,8 @@ These projects are the most challenging, demonstrating advanced AWS solutions an
   - **Service Used**: Amazon EC2, Docker (Swarm), Nginx
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/aef8ea6a4f36e8055e0e3e4caeeaed6a3597b966/LEVEL%20400/1.%20Create%20a%20cluster%20of%20virtual%20machines%20using%20docker%20swarm/COM04-AWS400%20-%20Create%20a%20cluster%20of%20virtual%20machines%20using%20docker%20swarm.md)
 
+- **Project 2**:  Build a Basic Web Application
+
+  - **Description**: This project involves building a full-stack web application using AWS Amplify. It features a simple React frontend with user authentication, a serverless function to handle user sign-ups, and a DynamoDB database for storing user emails. The application leverages AWS’s robust and scalable cloud services to deliver a seamless user experience, allowing users to sign up, log in, and store information securely.
+  - **Service Used**: AWS Amplify, AWS AppSync, AWS Lambda, Amazon DynamoDB, 
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/b38a2007df12cb4e97feaaacd13e2067eb519fe8/LEVEL%20400/2.%20Build%20a%20Basic%20Web%20Application/Build%20a%20Basic%20Web%20Application.md)
