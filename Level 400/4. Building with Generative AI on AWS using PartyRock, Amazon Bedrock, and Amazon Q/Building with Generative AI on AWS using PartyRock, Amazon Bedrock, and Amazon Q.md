@@ -244,12 +244,12 @@ Play around with different prompts to see how the model responds to variations i
 
 ## Expected Output
  - *"Unicorns in a magical forest. Lots of trees and animals around. The mood is bright, and there is lots of natural lighting."*
-   
-   ![image](https://github.com/user-attachments/assets/27830525-0d75-458f-a3b7-222b7b0ffd81)
+
+   ![p1](https://github.com/user-attachments/assets/11854681-2d79-45ab-a7d7-44b5b1376d1f)
 
 - *"Downtown City, with lots of skyscrapers. At night time, lots of lights in the buildings."*
   
-  ![image](https://github.com/user-attachments/assets/0369793b-d1fb-4968-b833-ed779381ec5f)
+  ![p2](https://github.com/user-attachments/assets/37db5772-2188-4ad5-806d-42940c076293)
 
 ---
 
