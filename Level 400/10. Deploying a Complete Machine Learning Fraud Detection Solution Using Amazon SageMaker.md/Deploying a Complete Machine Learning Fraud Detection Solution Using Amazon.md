@@ -856,7 +856,8 @@ Thank you.
 
 This end-to-end solution highlights the power of Amazon SageMaker in handling real-time fraud detection and anomaly classification. By integrating AWS tools for automation, monitoring, and security, this project demonstrates an adaptable, high-performance architecture that can scale to meet growing data demands. The setup is versatile and supports businesses in proactive fraud management, ensuring fast, accurate, and secure anomaly detection for production-grade applications.
 
-To explore and experiment with the project’s code and documentation, visit the [**GitHub Repository](https://github.com/Dark-Cookie/AWS-Projects/tree/main/Level%20400/10.%20Deploying%20a%20Complete%20Machine%20Learning%20Fraud%20Detection%20Solution%20Using%20Amazon%20SageMaker)**. Here you can access the complete code, follow along with detailed instructions, and customize the applications to fit your own use cases.
->  ***Asif Khan — Aspiring Cloud Architect | Weekly Cloud Learning Chronicler***
+Explore my [GitHub repository.](https://github.com/shubhammurti/AWS-Projects-Portfolio/)
 
-[**LinkedIn](https://www.linkedin.com/in/asif0108/)**/[**Twitter](https://x.com/asif26073)**/[**GitHub](https://github.com/Dark-Cookie)**
+> **Shubham Murti — Aspiring Cloud Security Engineer | Weekly Cloud Learning !!**
+
+**Let’s connect:** [Linkdin](http://www.linkedin.com/in/shubham-murti-b6486a1aa), [Twitter](https://x.com/murti_shubham), [Github](https://github.com/shubhammurti)
