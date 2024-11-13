@@ -3,7 +3,7 @@
 
 ### Introduction
 
-In the world of big data, efficient processing and analysis of real-time streams are essential for businesses seeking actionable insights. This project implements a **serverless data processing architecture** using AWS services such as **Amazon Kinesis**, **AWS Lambda**, **Amazon S3**, **Amazon DynamoDB**, **Amazon Cognito**, and **Amazon Athena**. By leveraging these services, the solution can ingest, process, and store data with high scalability and minimal infrastructure management, offering a powerful system for real-time data insights.
+Businesses looking for meaningful insights in the big data world depend on effective real-time stream processing and analysis. This project uses AWS services including Amazon Kinesis, AWS Lambda, Amazon S3, Amazon DynamoDB, Amazon Cognito, and Amazon Athena to construct a serverless data processing architecture. The solution provides a robust system for real-time data insights by utilizing these services to ingest, process, and store data with high scalability and low infrastructure administration.
 
 ### Tech Stack
 
@@ -1234,3 +1234,11 @@ Stop and start the producer while watching the dashboard and the consumer. Start
 * **Solution**: Implemented Cognito for secure, role-based access management, enforcing strict access control for users and applications.
 
 ## Conclusion
+
+The ability of serverless architecture to manage real-time data streams is demonstrated by the serverless data processing solution developed on AWS. This project offers a scalable, effective, and secure platform for processing large amounts of data with less infrastructure administration by combining services like Kinesis, Lambda, DynamoDB, and S3. This architecture is flexible and can be used for a variety of purposes, including online monitoring, financial transactions, and the Internet of Things. It is a prime example of how serverless services may streamline intricate data processing requirements while preserving cost-effectiveness and scalability.
+
+Explore my [GitHub repository.](https://github.com/shubhammurti/AWS-Projects-Portfolio/)
+
+> **Shubham Murti — Aspiring Cloud Security Engineer | Weekly Cloud Learning !!**
+
+**Let’s connect:** [Linkdin](http://www.linkedin.com/in/shubham-murti-b6486a1aa), [Twitter](https://x.com/murti_shubham), [Github](https://github.com/shubhammurti)
