@@ -157,20 +157,19 @@ These projects are the most challenging, demonstrating advanced AWS solutions an
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/b38a2007df12cb4e97feaaacd13e2067eb519fe8/LEVEL%20400/2.%20Build%20a%20Basic%20Web%20Application/Build%20a%20Basic%20Web%20Application.md)
 
  - **Project 3**:  Build a Serverless Recipe Generator with AWS Amplify and Amazon Bedrock
-
-  - **Description**: In this project, I built a serverless web application using AWS Amplify, integrated with Amazon Bedrock and the Claude 3 Sonnet foundation model for Generative AI. The application allows users to enter a list of ingredients, and in return, it generates creative and delicious recipes powered by AI. The front end is hosted on AWS Amplify, offering continuous deployment, while the backend handles requests to generate recipes from a list of ingredients. AWS services like Cognito for authentication, AppSync for API management, and Lambda for serverless functions are used to power the app.
-  - **Service Used**:AWS Amplify, AWS Cognito, AWS AppSync, AWS Lambda, Amazon Bedrock
-  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/3.%20Build%20a%20Serverless%20Web%20Application%20using%20Generative%20AI/Build%20a%20Serverless%20Web%20Application%20using%20Generative%20AI.md)
+   - **Description**: In this project, I built a serverless web application using AWS Amplify, integrated with Amazon Bedrock and the Claude 3 Sonnet foundation model for Generative AI. The application allows users to enter a list of ingredients, and in return, it generates creative and delicious recipes powered by AI. The front end is hosted on AWS Amplify, offering continuous deployment, while the backend handles requests to generate recipes from a list of ingredients. AWS services like Cognito for authentication, AppSync for API management, and Lambda for serverless functions are used to power the app.
+    - **Service Used**:AWS Amplify, AWS Cognito, AWS AppSync, AWS Lambda, Amazon Bedrock
+    - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/3.%20Build%20a%20Serverless%20Web%20Application%20using%20Generative%20AI/Build%20a%20Serverless%20Web%20Application%20using%20Generative%20AI.md)
 
 - **Project 4**:  Building with Generative AI on AWS using PartyRock, Amazon Bedrock, and Amazon Q
 
-  - **Description**: In this project, I worked on three independent projects using Amazon Bedrock and PartyRock:
-    -  Using PartyRock, I quickly built a book recommendation app that generates personalized suggestions based on the user’s mood and allows for an interactive chatbot experience. This no-code tool made it easy to create and deploy a simple app without writing a single line of code.
-    -  In Amazon Bedrock, I experimented with powerful foundation models like Claude 3 Sonnet for chat, Amazon Titan for text generation, and Titan Image Generator for creating images from text prompts. This step showed me how to integrate AI models for more creative and dynamic use cases in real-world applications.
-    -  Lastly, I implemented a document-based AI model that retrieves and uses context to answer questions. I set up embeddings using Amazon Titan, performed similarity searches with FAISS, and used the Claude 3 Sonnet model to generate accurate, context-based responses to user queries. This showcased how to build applications that not only generate content but also pull in relevant information from external sources.
+    - **Description**: In this project, I worked on three independent projects using Amazon Bedrock and PartyRock:
+      -  Using PartyRock, I quickly built a book recommendation app that generates personalized suggestions based on the user’s mood and allows for an interactive chatbot experience. This no-code tool made it easy to create and deploy a simple app without writing a single line of code.
+      -  In Amazon Bedrock, I experimented with powerful foundation models like Claude 3 Sonnet for chat, Amazon Titan for text generation, and Titan Image Generator for creating images from text prompts. This step showed me how to integrate AI models for more creative and dynamic use cases in real-world applications.
+      -  Lastly, I implemented a document-based AI model that retrieves and uses context to answer questions. I set up embeddings using Amazon Titan, performed similarity searches with FAISS, and used the Claude 3 Sonnet model to generate accurate, context-based responses to user queries. This showcased how to build applications that not only generate content but also pull in relevant information from external sources.
 
-  - **Service Used**:  PartyRock, Amazon Bedrock
-  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/4.%20Building%20with%20Generative%20AI%20on%20AWS%20using%20PartyRock%2C%20Amazon%20Bedrock%2C%20and%20Amazon%20Q/Building%20with%20Generative%20AI%20on%20AWS%20using%20PartyRock%2C%20Amazon%20Bedrock%2C%20and%20Amazon%20Q.md)
+    - **Service Used**:  PartyRock, Amazon Bedrock
+    - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/4.%20Building%20with%20Generative%20AI%20on%20AWS%20using%20PartyRock%2C%20Amazon%20Bedrock%2C%20and%20Amazon%20Q/Building%20with%20Generative%20AI%20on%20AWS%20using%20PartyRock%2C%20Amazon%20Bedrock%2C%20and%20Amazon%20Q.md)
 
 - **Project 5**:  Multi-Tier, Highly Available, Fault-Tolerant Web Application
 
