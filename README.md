@@ -155,3 +155,69 @@ These projects are the most challenging, demonstrating advanced AWS solutions an
   - **Description**: This project involves building a full-stack web application using AWS Amplify. It features a simple React frontend with user authentication, a serverless function to handle user sign-ups, and a DynamoDB database for storing user emails. The application leverages AWS’s robust and scalable cloud services to deliver a seamless user experience, allowing users to sign up, log in, and store information securely.
   - **Service Used**: AWS Amplify, AWS AppSync, AWS Lambda, Amazon DynamoDB, 
   - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/b38a2007df12cb4e97feaaacd13e2067eb519fe8/LEVEL%20400/2.%20Build%20a%20Basic%20Web%20Application/Build%20a%20Basic%20Web%20Application.md)
+
+ - **Project 3**:  Build a Serverless Recipe Generator with AWS Amplify and Amazon Bedrock
+   - **Description**: In this project, I built a serverless web application using AWS Amplify, integrated with Amazon Bedrock and the Claude 3 Sonnet foundation model for Generative AI. The application allows users to enter a list of ingredients, and in return, it generates creative and delicious recipes powered by AI. The front end is hosted on AWS Amplify, offering continuous deployment, while the backend handles requests to generate recipes from a list of ingredients. AWS services like Cognito for authentication, AppSync for API management, and Lambda for serverless functions are used to power the app.
+    - **Service Used**:AWS Amplify, AWS Cognito, AWS AppSync, AWS Lambda, Amazon Bedrock
+    - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/3.%20Build%20a%20Serverless%20Web%20Application%20using%20Generative%20AI/Build%20a%20Serverless%20Web%20Application%20using%20Generative%20AI.md)
+
+- **Project 4**:  Building with Generative AI on AWS using PartyRock, Amazon Bedrock, and Amazon Q
+
+    - **Description**: In this project, I worked on three independent projects using Amazon Bedrock and PartyRock:
+      -  Using PartyRock, I quickly built a book recommendation app that generates personalized suggestions based on the user’s mood and allows for an interactive chatbot experience. This no-code tool made it easy to create and deploy a simple app without writing a single line of code.
+      -  In Amazon Bedrock, I experimented with powerful foundation models like Claude 3 Sonnet for chat, Amazon Titan for text generation, and Titan Image Generator for creating images from text prompts. This step showed me how to integrate AI models for more creative and dynamic use cases in real-world applications.
+      -  Lastly, I implemented a document-based AI model that retrieves and uses context to answer questions. I set up embeddings using Amazon Titan, performed similarity searches with FAISS, and used the Claude 3 Sonnet model to generate accurate, context-based responses to user queries. This showcased how to build applications that not only generate content but also pull in relevant information from external sources.
+
+    - **Service Used**:  PartyRock, Amazon Bedrock
+    - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/4.%20Building%20with%20Generative%20AI%20on%20AWS%20using%20PartyRock%2C%20Amazon%20Bedrock%2C%20and%20Amazon%20Q/Building%20with%20Generative%20AI%20on%20AWS%20using%20PartyRock%2C%20Amazon%20Bedrock%2C%20and%20Amazon%20Q.md)
+
+- **Project 5**:  Multi-Tier, Highly Available, Fault-Tolerant Web Application
+
+  - **Description**: In this project, I designed and implemented a multi-tier, highly available, and fault-tolerant web application using various AWS services including Amazon VPC, Amazon EC2, Amazon Aurora, and Amazon S3. This architecture ensures scalability, resilience, and efficient resource management. This experience is part of my journey to becoming a Cloud Engineer, focusing on building robust cloud-based applications.
+  - **Service Used**:  Amazon VPC,Amazon EC2,Amazon Aurora, Amazon S3
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/5.%20Multi-Tier%2C%20Highly%20Available%2C%20Fault-Tolerant%20Web%20Application%20on%20AWS/5.%20Multi-Tier%2C%20Highly%20Available%2C%20Fault-Tolerant%20Web%20Application%20on%20AWS.md)
+
+- **Project 6**:  Building a Highly Available WordPress Web Application
+
+  - **Description**: In this project, I designed and implemented a highly available WordPress web application on AWS using various services, including Amazon VPC, Amazon RDS, Amazon EFS, and Amazon EC2 with Auto Scaling and Application Load Balancer (ALB). This architecture ensures scalability, resilience, and efficient resource management.
+  - **Service Used**:  Amazon VPC, Amazon RDS, Amazon EFS, Amazon EC2
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/6.%20Create%20a%20Highly%20Available%20WordPress%20Web%20Application/6.%20Create%20a%20Highly%20Available%20WordPress%20Web%20Application.md)
+
+- **Project 7**:  Create a Continuous Delivery Pipeline
+
+  - **Description**: In this project, I created a continuous delivery pipeline using AWS services, including AWS Elastic Beanstalk, AWS CodeBuild, and AWS CodePipeline. The pipeline automates the deployment of a web application, ensuring that code changes are automatically built, tested, and deployed to a highly available environment.
+  - **Service Used**:  AWS CodePipeline, AWS CodeBuild, AWS Elastic Beanstalk, Amazon EC2 with Auto Scaling
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/7.%20Create%20a%20Continuous%20Delivery%20Pipeline/7.%20Create%20a%20Continuous%20Delivery%20Pipeline.md)
+
+
+- **Project 8**:  Building Web Applications based on Amazon EKS
+  - **Description**: In this project, I built a web application based on Amazon Elastic Kubernetes Service (EKS). The architecture included creating a development environment using AWS Cloud9, building container images with Docker, uploading those images to Amazon Elastic Container Registry (ECR), deploying EKS clusters and services, exploring Container Insights, and implementing auto-scaling for pods and clusters. 
+  - **Service Used**:  AWS Cloud9, Amazon Elastic Container Registry (ECR), Amazon Elastic Kubernetes Service (EKS), AWS Fargate
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/8.%20Building%20Web%20Applications%20Using%20Amazon%20EKS/8.%20Building%20Web%20Applications%20Using%20Amazon%20EKS.md)
+
+
+- **Project 9**:  Large-scale Data Processing with Step Functions
+  - **Description**: In this project, I implemented a large-scale data processing workflow using AWS Step Functions to orchestrate various tasks in a serverless architecture. The workflow utilized Amazon S3 for data storage, IAM for managing permissions, CloudWatch for monitoring and logging, and AWS X-Ray for tracing requests. 
+  - **Service Used**:  AWS Step Functions, Amazon S3, IAM (Identity and Access Management), CloudWatch, AWS X-Ray
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/9.%20Large-scale%20Data%20Processing%20with%20Step%20Functions/9.%20Large-scale%20Data%20Processing%20with%20Step%20Functions.MD)
+
+
+- **Project 10**:  Deploying a Complete Machine Learning Fraud Detection Solution Using Amazon SageMaker
+
+  - **Description**: In this project, I deployed a complete machine learning fraud detection solution using Amazon SageMaker. The architecture leverages various AWS services to build, train, and deploy a robust model capable of detecting fraudulent transactions.
+  - **Service Used**:  Amazon SageMaker,AWS Lambda, Amazon S3, AWS IAM, Amazon EC2 and VPC, Amazon CloudWatch, Amazon SQS, AWS Secrets Manager, AWS CloudTrail, Amazon Route 53, AWS Systems Manager (SSM), Amazon API Gateway, Amazon SNS, Amazon CloudFormation
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/10.%20Deploying%20a%20Complete%20Machine%20Learning%20Fraud%20Detection%20Solution%20Using%20Amazon%20SageMaker.md/Deploying%20a%20Complete%20Machine%20Learning%20Fraud%20Detection%20Solution%20Using%20Amazon.md)
+
+
+- **Project 11**:  Serverless Data Processing on AWS
+  - **Description**: In this project, I implemented a serverless data processing solution using AWS services, including Amazon Kinesis, AWS Lambda, Amazon S3, Amazon DynamoDB, Amazon Cognito, and Amazon Athena. The architecture is designed to handle real-time data streams, process and store data efficiently, and enable ad-hoc querying for insights.
+  - **Service Used**:  AWS Lambda, Amazon Kinesis Data Analytics, Amazon DynamoDB, Amazon S3, Amazon Kinesis Data Firehose, Amazon Athena, Amazon Cognito
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/e4c4fecc7a002380353d437358618090e041edf1/Level%20400/11.%20Serverless%20Data%20Processing%20on%20AWS/Serverless%20Data%20Processing%20on%20AWS.md)
+
+
+- **Project 12**:  AWS Cloud Resume Challenge
+
+  - **Description**: AWS Cloud Resume Challenge was is incredible learning experience and a taste of what real-world cloud architecture looks like. This project, inspired by @ForrestBrazeal  challenge, covers end-to-end deployment of a personal resume website using AWS services, combining serverless computing, infrastructure as code, CI/CD, and front-end development in a practical application.
+
+  - **Service Used**:  Amazon S3, AWS Lambda, DynamoDB, AWS CloudFormation, Route 53, AWS Certificate Manager (ACM), API Gateway, CloudFront
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS_CRC/blob/7039f7d57269e9894a306a1c3ea3a54b629a983b/README.md)
