@@ -220,4 +220,11 @@ These projects are the most challenging, demonstrating advanced AWS solutions an
   - **Description**: AWS Cloud Resume Challenge was is incredible learning experience and a taste of what real-world cloud architecture looks like. This project, inspired by @ForrestBrazeal  challenge, covers end-to-end deployment of a personal resume website using AWS services, combining serverless computing, infrastructure as code, CI/CD, and front-end development in a practical application.
 
   - **Service Used**:  Amazon S3, AWS Lambda, DynamoDB, AWS CloudFormation, Route 53, AWS Certificate Manager (ACM), API Gateway, CloudFront
-  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS_CRC/blob/7039f7d57269e9894a306a1c3ea3a54b629a983b/README.md)
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS_CRC)
+
+- **Project 13**:  Build an Automated Video Monitoring System with AWS IoT and AI/ML
+
+  - **Description**: This project involved creating a real-time automated video monitoring system using AWS IoT and AI/ML services. By integrating AWS IoT Core for device communication and Amazon Rekognition for video analytics, I developed a solution that detects objects, faces, and events in video feeds. The system was further automated using AWS Lambda and CloudWatch to trigger responses based on the detected events, showcasing how IoT and AI/ML can streamline video surveillance processes for increased efficiency and security.
+
+  - **Service Used**:  AWS IoT Core, Amazon Rekognition, AWS Lambda, Amazon CloudWatch, AWS IoT Greengrass, Amazon S3
+  - **Link**: [Project Directory](https://github.com/shubhammurti/AWS-Projects-Portfolio/blob/d755ab7145fff0cde1bf7ff6eadaceab0ed6406c/Level%20400/13.%20Build%20an%20automated%20video%20monitoring%20system%20with%20AWS%20IoT%20and%20AIML/Build%20an%20automated%20video%20monitoring%20system%20with%20AWS%20IoT%20and%20AIML.md)
